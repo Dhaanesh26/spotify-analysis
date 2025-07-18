@@ -1,5 +1,5 @@
 # spotify-analysis
-Spotify listening trends analyzed and visualized using AWS cloud services.
+Spotify listening trends analyzed and visualized using AWS cloud services. 
 
 
 # Architecture (AWS Cloud Services)
